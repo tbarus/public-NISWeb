@@ -1,1 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[2],{232:function(o,r,e){"use strict";e.r(r),r.default={links:{dashboard:"Dashboard",catalog:"Catalog",categories:"Categories",products:"Products",brands:"Brands",campaigns:"Campaigns",solutions:"Solutions",services:"Services",orders:"Orders"}}}}]);
